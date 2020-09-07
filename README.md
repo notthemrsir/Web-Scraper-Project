@@ -1,2 +1,2 @@
 # Web-Scraper-Project
-Class Project with Python in Which I Scraped All of Shakespeare's Works From A Website, Tokenizes All Text, Creates a Bi-gram Index, and then Allows for the User to Search for a particular word throughout all of his works, with the play, act, and scene in which that word occurred is presented to the user. If nothing is found that matches, then alternate spellings are provided.
+Class Project with Python that Essentially Puts the Works of Shakespeare into Several Different Indexes to Allow the User to Search for a Term in all of his Works, and Will Be Presented with an Alternate Spelling Suggestions if Their Search Doesn't Find Anything, Or the Play, Act, and Scene in Which that Term Appears.
